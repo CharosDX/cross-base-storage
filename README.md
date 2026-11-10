@@ -3,7 +3,7 @@
 An Enshrouded mod: the magic chests of all your bases work together.
 Stone in one base and wood in another? Build and craft with both, in every base, without carrying anything around.
 
-**Download:** [Nexus Mods](https://www.nexusmods.com/enshrouded/mods/245) or the [Releases](../../releases) of this repository.
+**Download:** [Nexus Mods](https://www.nexusmods.com/enshrouded/mods/245)
 How to install, settings, co-op and troubleshooting are explained in the [mod README](mod/README.md).
 
 ## What it does
