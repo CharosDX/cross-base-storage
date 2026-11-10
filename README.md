@@ -37,7 +37,7 @@ For a working install, copy `build\dinput8.dll` next to `enshrouded.exe`, and `m
 
 ## About AI use
 
-This mod was made in collaboration with Claude (Anthropic), an AI assistant. Claude did the reverse engineering of the game, wrote the code and ran the automated tests. I came up with the ideas and the design, decided how each feature should work, and tested everything in game, reporting problems until it worked the way I wanted.
+This mod was made in collaboration with Claude (Anthropic). Claude did the reverse engineering of the game, wrote the code and ran the automated tests. I came up with the ideas and the design, decided how each feature should work, and tested everything in game, reporting problems until it worked the way I wanted.
 
 ## License
 
