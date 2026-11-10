@@ -1,0 +1,8 @@
+{
+  "id": "cross-base-storage",
+  "name": "Cross-Base Storage",
+  "version": "1.1.0",
+  "description": "Magic chests of all your bases work together: build and craft with materials stored in any base. Native DLL, loaded by the dinput8.dll loader; EML does not run anything here.",
+  "authors": ["CharosDX"],
+  "capabilities": []
+}

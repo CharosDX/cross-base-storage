@@ -1,0 +1,13 @@
+# Build output and compiler leftovers
+build/
+*.obj
+*.res
+*.lib
+*.exp
+*.pdb
+*.dll
+*.exe
+
+# Logs and settings created by the game
+*.log
+*.ini
